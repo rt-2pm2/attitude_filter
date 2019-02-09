@@ -1,0 +1,3 @@
+[submodule "src/include/Matrix"]
+	path = src/include/Matrix
+	url = git@github.com:PX4/Matrix.git
